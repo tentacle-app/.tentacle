@@ -1,0 +1,6 @@
+version: beta1
+links:
+  - name: PageDuty
+    required: true
+  - name: Dynamic link
+    url: https://something.com/{{repository.owner}}/{{repository.name}}
